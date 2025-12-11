@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": "therapy_set_1",
+      "target_words": [
+        {"word": "therapy", "definition": "Treatment that helps a person feel better in body or mind."},
+        {"word": "session", "definition": "A short, planned period of time for a task or activity."},
+        {"word": "benefit", "definition": "A good or helpful result you get from something."}
+      ],
+      "question": "Which of these unusual real-world therapy ideas has been offered in Japan?",
+      "correct_option": {
+        "title": "Crying Therapy",
+        "text": "Some Japanese events invite people to cry together while a guide helps them release stress during a short session.",
+        "reason": "If you love a strange but gentle way to feel a benefit fast, this emotional idea sounds perfect."
+      },
+      "distractors": [
+        {
+          "title": "Soap-Bubble Therapy",
+          "text": "Visitors breathe toward giant soap bubbles to ‘blow worries away’ in a colorful room.",
+          "reason": "It sounds peaceful and easy, and bubbles always look magical, so it feels believable."
+        },
+        {
+          "title": "Umbrella Singing Therapy",
+          "text": "People sing into umbrellas to hear calming echoes that ‘clean the mind’.",
+          "reason": "The picture is funny and charming, and echo sounds can feel relaxing to many people."
+        }
+      ],
+      "evidence_text": "Japan really has crying therapy events where people release stress by crying together in a guided session. Many say it gives a fast emotional benefit.",
+      "source_urls": ["https://www.bbc.com/worklife/article/20150526-why-we-all-need-a-good-cry"]
+    },
+    {
+      "id": "anxiety_set_1",
+      "target_words": [
+        {"word": "anxiety", "definition": "A strong feeling of worry or fear about something."},
+        {"word": "confidence", "definition": "A feeling that you can do something well or succeed."},
+        {"word": "gentleness", "definition": "A soft, kind way of behaving."}
+      ],
+      "question": "Which real animal is used in some airports to help calm people’s anxiety?",
+      "correct_option": {
+        "title": "Therapy Pigs",
+        "text": "Some U.S. airports have trained pigs that walk around and greet passengers to help reduce anxiety.",
+        "reason": "A friendly pig with surprising gentleness can really lift your confidence before a flight."
+      },
+      "distractors": [
+        {
+          "title": "Airport Hedgehogs",
+          "text": "Small hedgehogs sit in tiny baskets, and travelers are encouraged to ‘slow down’ while watching them.",
+          "reason": "They look peaceful and cute, so it feels like they could calm anyone."
+        },
+        {
+          "title": "Soothing Llamas",
+          "text": "Llamas walk the hall to ‘share calm energy’ with nervous passengers.",
+          "reason": "Llamas seem gentle and wise in stories, so the idea sounds almost true."
+        }
+      ],
+      "evidence_text": "Some airports, including San Francisco, use therapy pigs to comfort travelers and lower anxiety. Their gentleness helps people feel more confidence.",
+      "source_urls": ["https://www.sfgate.com/travel/article/san-francisco-airport-therapy-pig-14929024.php"]
+    },
+    {
+      "id": "independence_set_1",
+      "target_words": [
+        {"word": "independence", "definition": "The ability to do things by yourself without help."},
+        {"word": "paralyzed", "definition": "Unable to move part or all of the body."}
+      ],
+      "question": "Which real invention was created to help paralyzed people gain more independence?",
+      "correct_option": {
+        "title": "Mind-Control Wheelchair",
+        "text": "Scientists developed a wheelchair that moves when the user thinks of directions.",
+        "reason": "It sounds high-tech but real, and it directly supports independence."
+      },
+      "distractors": [
+        {
+          "title": "Magnetic Floor Boots",
+          "text": "Metal floors and special boots help users ‘walk’ with controlled magnets under the building.",
+          "reason": "Magnets feel futuristic, so many people might accept them quickly."
+        },
+        {
+          "title": "Voice-Controlled Balance Suit",
+          "text": "A full-body suit reacts to commands like ‘stand’ or ‘turn’ to help with movement.",
+          "reason": "Voice control is common today, so this idea seems possible."
+        }
+      ],
+      "evidence_text": "Researchers have built mind-control wheelchairs using brain signals. These devices help paralyzed users move more freely and gain independence.",
+      "source_urls": ["https://www.nature.com/articles/s41598-020-80779-0"]
+    },
+    {
+      "id": "instruct_set_1",
+      "target_words": [
+        {"word": "instruct", "definition": "To teach someone how to do something."},
+        {"word": "stable", "definition": "A building where horses are kept."}
+      ],
+      "question": "Which of these real horse-related jobs sometimes requires workers to instruct children during farm tours?",
+      "correct_option": {
+        "title": "Stable Tour Guides",
+        "text": "Some farms hire guides who show visitors around the stable and instruct kids on horse care.",
+        "reason": "It is everyday work and fits naturally with real stable life."
+      },
+      "distractors": [
+        {
+          "title": "Saddle Painters",
+          "text": "These artists paint colorful saddles and explain color meanings to young visitors.",
+          "reason": "Creative jobs exist everywhere, so it feels possible."
+        },
+        {
+          "title": "Horse Whisper Meter Readers",
+          "text": "Workers measure how ‘calm’ a horse is and teach kids to read gentle sounds.",
+          "reason": "It has a mystical feeling that can tempt curious players."
+        }
+      ],
+      "evidence_text": "Many farms offer guided stable tours. Workers really instruct visitors, especially children, on basic horse care and safety.",
+      "source_urls": ["https://extension.umn.edu/horse-care/horse-farm-tour-tips"]
+    }
+  ]
+}
